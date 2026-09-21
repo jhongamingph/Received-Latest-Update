@@ -53,7 +53,7 @@
 | loadstring(game:HttpGet("https://pastefy.app/VdoR7gUj/raw"))()
 
   [𝙷𝙴𝚁𝙼𝙰𝙽𝙾𝚂'𝙳𝙴𝚅] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃] 
-| https://api.luarmor.net/files/v4/loaders/341aeb3eaa42e6423a4cdbf2b148e77f.lua
+| loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/341aeb3eaa42e6423a4cdbf2b148e77f.lua"))()
 
   [𝙾𝙽𝙸𝙾𝙽 𝙼𝙰𝙲𝚁𝙾] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/cc815ef92aaf3ed41a37aa4d87cd93ff.lua"))()
