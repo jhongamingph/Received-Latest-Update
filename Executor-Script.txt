@@ -48,15 +48,12 @@
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/479e9f38148118df2d14fc0795ece576.lua"))()
 
-  [𝚃𝚄𝚁𝙱𝙾.𝙻𝙸𝚃𝙴] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙴]
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
-| loadstring(game:HttpGet("https://pastefy.app/VdoR7gUj/raw"))()
-
   [𝙷𝙴𝚁𝙼𝙰𝙽𝙾𝚂'𝙳𝙴𝚅] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃] 
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/341aeb3eaa42e6423a4cdbf2b148e77f.lua"))()
 
   [𝙾𝙽𝙸𝙾𝙽 𝙼𝙰𝙲𝚁𝙾] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/cc815ef92aaf3ed41a37aa4d87cd93ff.lua"))()
 
-  [𝙰𝙽𝚃𝙸-𝙻𝙰𝙶] - [𝚄𝙽𝙸𝚅𝙴𝚁𝙴]
-| loadstring(game:HttpGet("https://pastefy.app/VOKSm2WB/raw"))()
+  [𝚃𝚄𝚁𝙱𝙾.𝙻𝙸𝚃𝙴] - [𝙱𝙻𝙾𝚇𝙵𝚁𝚄𝙸𝚃𝚂]
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
+| loadstring(game:HttpGet("https://pastefy.app/VdoR7gUj/raw"))()
