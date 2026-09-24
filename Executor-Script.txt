@@ -1,36 +1,41 @@
 --[[
            𝚃𝙷𝙸𝚂 𝚆𝙰𝚂 𝙼𝙰𝙳𝙴 𝚃𝙾 𝚁𝙴𝙲𝙴𝙸𝚅𝙴𝙳 𝙻𝙰𝚃𝙴𝚂𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 / 𝚄𝙿𝙳𝙰𝚃𝙴  𝙰𝙱𝙾𝚄𝚃 ( 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 & 𝚂𝙲𝚁𝙸𝙿𝚃 ) 
-           𝙲𝙾𝙼𝙿𝙸𝙻𝙴𝙳 𝙱𝚈: 𝚂𝚈𝙽𝙲 - 𝙹𝙾𝙷𝙽
+           𝙲𝙾𝙽𝙿𝙸𝙻𝙴𝙳 𝙱𝚈: 𝚂𝚈𝙽𝙲 - 𝙹𝙾𝙷𝙽
            𝚃𝙸𝙺𝚃𝙾𝙺:  jhongamingph
-           𝚈𝙾𝚄𝚃𝚄𝙱𝙴: jhongamingph
+           𝚈𝙾𝚄𝚃𝚄𝙱𝙴: jhongamingph  
            𝙲𝙾𝙿𝚈𝚁𝙸𝙶𝙷𝚃 © 2026-2027  𝚃𝙴𝙰𝙼 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 - 𝙰𝙻𝙻 𝚁𝙸𝙶𝙷𝚃𝚂 𝚁𝙴𝚂𝙴𝚁𝚅𝙴𝙳.
-           𝙿𝚁𝙴𝚂𝚂 "Shift + F5" = 𝚂𝙷𝙾𝚆 𝙾𝚁𝙸𝙶𝙸𝙽𝙰𝙻 𝙳𝙸𝚂𝙿𝙻𝙰𝚈 𝙵𝙿𝚂
            𝚂𝚃𝙰𝚃𝚄𝚂: 🟢
+           Shift + F5 = 𝚂𝙷𝙾𝚆 𝙾𝚁𝙸𝙶𝙸𝙽𝙰𝙻 𝙳𝙸𝚂𝙿𝙻𝙰𝚈 𝙵𝙿𝚂
 ]]--
 
--- [𝙼𝙾𝙱𝙸𝙻𝙴 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝚆𝙴𝙱𝚂𝙸𝚃𝙴] -- [𝙿𝙲 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝚆𝙴𝙱𝚂𝙸𝚃𝙴] --
-| https://deltaexploits.gg            | https://getsolara.dev/
-| https://deltaexploits.dev           | https://getmadium.net/
-| https://shop.deltaexploits.gg       | https://projectreal.gg
+-- [𝙼𝙾𝙱𝙸𝙻𝙴 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝚆𝙴𝙱𝚂𝙸𝚃𝙴] -- [📱]
+| https://deltaexploits.gg
+| https://deltaexploits.dev
+| https://shop.deltaexploits.gg
 
--- [𝚁𝙾𝙱𝙻𝙾𝚇 𝙱𝙾𝙾𝚃𝚂𝚃𝚁𝙰𝙿] --
+-- [𝙿𝙲 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝚆𝙴𝙱𝚂𝙸𝚃𝙴] -- [🖥️]
+| https://getsolara.dev/
+| https://getmadium.net/
+| https://projectreal.gg/
+
+-- [𝚁𝙾𝙱𝙻𝙾𝚇 𝙱𝙾𝙾𝚃𝚂𝚃𝚁𝙰𝙿] -- [🛠️]
 | https://www.fishstrap.app/download
 | https://masterstrap.org
 | https://voidstrap.org
 
--- [𝙳𝙸𝚂𝙲𝙾𝚁𝙳 𝚂𝙴𝚁𝚅𝙴𝚁] --
+-- [𝙳𝙸𝚂𝙲𝙾𝚁𝙳 𝚂𝙴𝚁𝚅𝙴𝚁] -- [💬]
 | https://discord.gg/zen-bypass
 | https://discord.gg/baconscript
 | https://discord.gg/m4a1
 | https://discord.gg/bypass-city
 | https://discord.gg/deltax
 
--- [𝙶𝙴𝚃 𝚂𝙲𝚁𝙸𝙿𝚃 𝙺𝙴𝚈] --
-  [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝚈𝙽𝚇 𝙺𝙴𝚈 𝚂𝚈𝚂𝚃𝙴𝙼]
+-- [𝙶𝙴𝚃 𝚂𝙲𝚁𝙸𝙿𝚃 𝙺𝙴𝚈] -- [🔑]
+  [🔮] [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝚈𝙽𝚇 𝙺𝙴𝚈 𝚂𝚈𝚂𝚃𝙴𝙼]
  (𝙻𝚘𝚘𝚝𝙻𝚊𝚋𝚜) - (24𝙷𝚁𝚂) :      https://ads.luarmor.net/get_key?for=Quantum_Onyx_Keysytem-NdUqNPMGBobv
  (𝙻𝚒𝚗𝚔𝚅𝚎𝚛𝚝𝚒𝚜𝚎) - (24𝙷𝚁𝚂) :   https://ads.luarmor.net/get_key?for=Quantum_Onyx_Keysytem-KCyPvypRNlEm
 
-  [𝙾𝙼𝙶 𝙷𝚄𝙱 𝙺𝙴𝚈 𝚂𝚈𝚂𝚃𝙴𝙼]
+  [🔥] [𝙾𝙼𝙶 𝙷𝚄𝙱 𝙺𝙴𝚈 𝚂𝚈𝚂𝚃𝙴𝙼]
  (𝙻𝚘𝚘𝚝𝙻𝚊𝚋𝚜) - (6𝙷𝚁𝚂)     :   https://ads.luarmor.net/get_key?for=OMG_Hub_Key6-grOmJZfLZuph
  (𝙻𝚘𝚘𝚝𝙻𝚊𝚋𝚜) - (12𝙷𝚁𝚂)    :   https://ads.luarmor.net/get_key?for=OMG_Hub_Key_14-HdKMFzrjDJeX
  (𝙻𝚘𝚘𝚝𝙻𝚊𝚋𝚜) - (24𝙷𝚁𝚂)    :   https://ads.luarmor.net/get_key?for=OMG_Hub_Key_13-iXflhaHkLYGB
@@ -39,20 +44,20 @@
  (𝙻𝚒𝚗𝚔𝚟𝚎𝚜𝚝𝚒𝚜𝚎) - (24𝙷𝚁𝚂) :   https://ads.luarmor.net/get_key?for=OMG_Hub_Key5-FFPUgHhulrnt
 
 -- [𝚂𝙲𝚁𝙸𝙿𝚃 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 𝙲𝙻𝙸𝙴𝙽𝚃𝚂] --
-  [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝙽𝚈𝚇 𝙿𝚁𝙾𝙹𝙴𝙲𝚃] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
+  [🔮] [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝙽𝚈𝚇 𝙿𝚁𝙾𝙹𝙴𝙲𝚃] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/Games/BloxFruits.lua"))()
 
-  [𝙾𝙼𝙶 𝙷𝚄𝙱] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
+  [🔥] [𝙾𝙼𝙶 𝙷𝚄𝙱] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/479e9f38148118df2d14fc0795ece576.lua"))()
 
-  [𝙷𝙴𝚁𝙼𝙰𝙽𝙾𝚂'𝙳𝙴𝚅] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃] 
+  [⚙️] [𝙷𝙴𝚁𝙼𝙰𝙽𝙾𝚂'𝙳𝙴𝚅] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃] 
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/341aeb3eaa42e6423a4cdbf2b148e77f.lua"))()
 
-  [𝙾𝙽𝙸𝙾𝙽 𝙼𝙰𝙲𝚁𝙾] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
+  [🧅] [𝙾𝙽𝙸𝙾𝙽 𝙼𝙰𝙲𝚁𝙾] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/cc815ef92aaf3ed41a37aa4d87cd93ff.lua"))()
 
-  [𝚃𝚄𝚁𝙱𝙾.𝙻𝙸𝚃𝙴] - [𝙱𝙻𝙾𝚇𝙵𝚁𝚄𝙸𝚃𝚂]
+  [⚡] [𝚃𝚄𝚁𝙱𝙾.𝙻𝙸𝚃𝙴] - [𝙱𝙻𝙾𝚇𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
 | loadstring(game:HttpGet("https://pastefy.app/VdoR7gUj/raw"))()
