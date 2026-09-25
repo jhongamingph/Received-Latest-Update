@@ -1,19 +1,16 @@
 --[[
-           𝚃𝙷𝙸𝚂 𝚆𝙰𝚂 𝙼𝙰𝙳𝙴 𝚃𝙾 𝚁𝙴𝙲𝙴𝙸𝚅𝙴𝙳 𝙻𝙰𝚃𝙴𝚂𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 / 𝚄𝙿𝙳𝙰𝚃𝙴  𝙰𝙱𝙾𝚄𝚃 ( 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 & 𝚂𝙲𝚁𝙸𝙿𝚃 ) 
+           𝚃𝙷𝙸𝚂 𝚆𝙰𝚂 𝙼𝙰𝙳𝙴 𝚃𝙾 𝚁𝙴𝙲𝙴𝙸𝚅𝙴𝙳 𝙻𝙰𝚃𝙴𝚂𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 / 𝚄𝙿𝙳𝙰𝚃𝙴  𝙰𝙱𝙾𝚄𝚃 ( 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 & 𝚂𝙲𝚁𝙸𝙿𝚃 )
+           𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙱𝚈: 𝙶𝙸𝚃𝙷𝚄𝙱.𝙲𝙾𝙼 | 𝙿𝙰𝚂𝚃𝙴𝙱𝙸𝙽.𝙲𝙾𝙼
            𝙲𝙾𝙽𝙿𝙸𝙻𝙴𝙳 𝙱𝚈: 𝚂𝚈𝙽𝙲 - 𝙹𝙾𝙷𝙽
-           𝚃𝙸𝙺𝚃𝙾𝙺:  jhongamingph
-           𝚈𝙾𝚄𝚃𝚄𝙱𝙴: jhongamingph  
            𝙲𝙾𝙿𝚈𝚁𝙸𝙶𝙷𝚃 © 2026-2027  𝚃𝙴𝙰𝙼 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 - 𝙰𝙻𝙻 𝚁𝙸𝙶𝙷𝚃𝚂 𝚁𝙴𝚂𝙴𝚁𝚅𝙴𝙳.
-           𝚂𝚃𝙰𝚃𝚄𝚂: 🟢
-           Shift + F5 = 𝚂𝙷𝙾𝚆 𝙾𝚁𝙸𝙶𝙸𝙽𝙰𝙻 𝙳𝙸𝚂𝙿𝙻𝙰𝚈 𝙵𝙿𝚂
 ]]--
 
--- [𝙼𝙾𝙱𝙸𝙻𝙴 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝚆𝙴𝙱𝚂𝙸𝚃𝙴] -- [📱]
+-- [𝙼𝙾𝙱𝙸𝙻𝙴 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁] -- [📱]
 | https://deltaexploits.gg
 | https://deltaexploits.dev
 | https://shop.deltaexploits.gg
 
--- [𝙿𝙲 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝚆𝙴𝙱𝚂𝙸𝚃𝙴] -- [🖥️]
+-- [𝙿𝙲 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁] -- [🖥️]
 | https://getsolara.dev/
 | https://getmadium.net/
 | https://projectreal.gg/
@@ -33,7 +30,7 @@
 -- [𝚂𝙲𝚁𝙸𝙿𝚃 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 𝙲𝙻𝙸𝙴𝙽𝚃𝚂] --
   [🔮] [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝙽𝚈𝚇 𝙿𝚁𝙾𝙹𝙴𝙲𝚃] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/Games/BloxFruits.lua"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/mrsflazhy/QuantumOnyx/refs/heads/main/BloxFruits.lua"))()
 
   [🔥] [𝙾𝙼𝙶 𝙷𝚄𝙱] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
@@ -47,4 +44,4 @@
 
   [⚡] [𝚃𝚄𝚁𝙱𝙾.𝙻𝙸𝚃𝙴] - [𝙱𝙻𝙾𝚇𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
-| loadstring(game:HttpGet("https://pastefy.app/VdoR7gUj/raw"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/mrsflazhy/TurboLite/refs/heads/main/FixLag.lua"))()
