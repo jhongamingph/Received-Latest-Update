@@ -1,47 +1,47 @@
 --[[
-           𝚃𝙷𝙸𝚂 𝚆𝙰𝚂 𝙼𝙰𝙳𝙴 𝚃𝙾 𝚁𝙴𝙲𝙴𝙸𝚅𝙴𝙳 𝙻𝙰𝚃𝙴𝚂𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 / 𝚄𝙿𝙳𝙰𝚃𝙴  𝙰𝙱𝙾𝚄𝚃 ( 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 & 𝚂𝙲𝚁𝙸𝙿𝚃 )
-           𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙱𝚈: 𝙶𝙸𝚃𝙷𝚄𝙱.𝙲𝙾𝙼 | 𝙿𝙰𝚂𝚃𝙴𝙱𝙸𝙽.𝙲𝙾𝙼
-           𝙲𝙾𝙽𝙿𝙸𝙻𝙴𝙳 𝙱𝚈: 𝚂𝚈𝙽𝙲 - 𝙹𝙾𝙷𝙽
+           𝚃𝙷𝙸𝚂 𝚆𝙰𝚂 𝙼𝙰𝙳𝙴 𝚃𝙾 𝚁𝙴𝙲𝙴𝙸𝚅𝙴𝙳 𝙻𝙰𝚃𝙴𝚂𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 & 𝚄𝙿𝙳𝙰𝚃𝙴  𝙰𝙱𝙾𝚄𝚃 ( 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁 & 𝚂𝙲𝚁𝙸𝙿𝚃 )
+           𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙱𝚈: 𝙶𝙸𝚃𝙷𝚄𝙱.𝙲𝙾𝙼 | 𝙻𝚄𝙰𝚁𝙼𝚄𝚁.𝙽𝙴𝚃
+           𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈: 𝚂𝚈𝙽𝙲 - 𝙹𝙾𝙷𝙽
            𝙲𝙾𝙿𝚈𝚁𝙸𝙶𝙷𝚃 © 2026-2027  𝚃𝙴𝙰𝙼 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 - 𝙰𝙻𝙻 𝚁𝙸𝙶𝙷𝚃𝚂 𝚁𝙴𝚂𝙴𝚁𝚅𝙴𝙳.
 ]]--
 
--- [𝙼𝙾𝙱𝙸𝙻𝙴 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁] -- [📱]
+  [𝙼𝙾𝙱𝙸𝙻𝙴 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁] - [📱]
 | https://deltaexploits.gg
 | https://deltaexploits.dev
 | https://shop.deltaexploits.gg
 
--- [𝙿𝙲 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁] -- [🖥️]
-| https://getsolara.dev/
-| https://getmadium.net/
-| https://projectreal.gg/
+  [𝙿𝙲 𝙴𝚇𝙴𝙲𝚄𝚃𝙾𝚁] - [🖥️]
+| https://getsolara.dev
+| https://getmadium.net
+| https://projectreal.gg
 
--- [𝚁𝙾𝙱𝙻𝙾𝚇 𝙱𝙾𝙾𝚃𝚂𝚃𝚁𝙰𝙿] -- [🛠️]
-| https://www.fishstrap.app/download
+  [𝚁𝙾𝙱𝙻𝙾𝚇 𝙱𝙾𝙾𝚃𝚂𝚃𝚁𝙰𝙿] - [🛠️]
+| https://fishstrap.app
 | https://masterstrap.org
 | https://voidstrap.org
 
--- [𝙳𝙸𝚂𝙲𝙾𝚁𝙳 𝚂𝙴𝚁𝚅𝙴𝚁] -- [💬]
+  [𝙳𝙸𝚂𝙲𝙾𝚁𝙳 𝚂𝙴𝚁𝚅𝙴𝚁] - [💬]
 | https://discord.gg/zen-bypass
 | https://discord.gg/baconscript
 | https://discord.gg/m4a1
 | https://discord.gg/bypass-city
 | https://discord.gg/deltax
 
--- [𝚂𝙲𝚁𝙸𝙿𝚃 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 𝙲𝙻𝙸𝙴𝙽𝚃𝚂] --
-  [🔮] [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝙽𝚈𝚇 𝙿𝚁𝙾𝙹𝙴𝙲𝚃] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
+  [𝚂𝙲𝚁𝙸𝙿𝚃 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 𝙲𝙻𝙸𝙴𝙽𝚃𝚂] - [📜]
+ [🔮] [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝙽𝚈𝚇 𝙿𝚁𝙾𝙹𝙴𝙲𝚃] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/mrsflazhy/QuantumOnyx/refs/heads/main/BloxFruits.lua"))()
 
-  [🔥] [𝙾𝙼𝙶 𝙷𝚄𝙱] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
+ [🔥] [𝙾𝙼𝙶 𝙷𝚄𝙱] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/479e9f38148118df2d14fc0795ece576.lua"))()
 
-  [⚙️] [𝙷𝙴𝚁𝙼𝙰𝙽𝙾𝚂'𝙳𝙴𝚅] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃] 
+ [⚙️] [𝙷𝙴𝚁𝙼𝙰𝙽𝙾𝚂'𝙳𝙴𝚅] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/341aeb3eaa42e6423a4cdbf2b148e77f.lua"))()
 
-  [🧅] [𝙾𝙽𝙸𝙾𝙽 𝙼𝙰𝙲𝚁𝙾] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
+ [🧅] [𝙾𝙽𝙸𝙾𝙽 𝙼𝙰𝙲𝚁𝙾] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/cc815ef92aaf3ed41a37aa4d87cd93ff.lua"))()
 
-  [⚡] [𝚃𝚄𝚁𝙱𝙾.𝙻𝙸𝚃𝙴] - [𝙱𝙻𝙾𝚇𝙵𝚁𝚄𝙸𝚃𝚂]
+ [⚡] [𝚃𝚄𝚁𝙱𝙾.𝙻𝙸𝚃𝙴] - [𝙱𝙻𝙾𝚇𝙵𝚁𝚄𝙸𝚃𝚂] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/mrsflazhy/TurboLite/refs/heads/main/FixLag.lua"))()
