@@ -41,14 +41,18 @@
 | https://discord.gg/weaoxyz
 
   [𝚂𝙲𝚁𝙸𝙿𝚃 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 𝙲𝙻𝙸𝙴𝙽𝚃𝚂] - [📜]
- [🔮] [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝙽𝚈𝚇 𝙿𝚁𝙾𝙹𝙴𝙲𝚃] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
+ [🔮] [𝚀𝚄𝙰𝙽𝚃𝚄𝙼 𝙾𝙽𝚈𝚇 𝙿𝚁𝙾𝙹𝙴𝙲𝚃] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/mrsflazhy/QuantumOnyx/refs/heads/main/BloxFruits.lua"))()
 
- [🔥] [𝙾𝙼𝙶 𝙷𝚄𝙱] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
+ [🔥] [𝙾𝙼𝙶 𝚂𝙷𝙸𝚃 𝙷𝚄𝙱] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
 | loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/479e9f38148118df2d14fc0795ece576.lua"))()
 
- [⚡] [𝚃𝚄𝚁𝙱𝙾.𝙻𝙸𝚃𝙴] - [𝙱𝙻𝙾𝚇𝙵𝚁𝚄𝙸𝚃𝚂] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
+ [⚡] [𝚃𝚄𝚁𝙱𝙾 𝙻𝙸𝚃𝙴] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/mrsflazhy/TurboLite/refs/heads/main/FixLag.lua"))()
+
+ [🚀] [𝙵𝙿𝚂 𝙱𝙾𝙾𝚂𝚃] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/mrsflazhy/FPSBoost/refs/heads/main/FixLag.lua"))()
+| loadstring(game:HttpGet("https://pastefy.app/u1pz8MpN/raw"))()
