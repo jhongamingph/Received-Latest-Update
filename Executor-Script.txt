@@ -54,5 +54,5 @@
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/TurboLite/refs/heads/main/FixLag.lua"))()
 
  [🚀] [𝙵𝙿𝚂 𝙱𝙾𝙾𝚂𝚃] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v1/refs/heads/main/RemoveTexture.Lua"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v1/refs/heads/main/RemoveTexture.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v2/refs/heads/main/RemoveTexture.lua"))()
