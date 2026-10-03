@@ -54,6 +54,7 @@
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/TurboLite/refs/heads/main/FixLag.lua"))()
 
- [🚀] [𝚁𝙴𝙼𝙾𝚅𝙴 𝚃𝙴𝚇𝚃𝚄𝚁𝙴] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
+ [🚀] [𝚁𝙴𝙼𝙾𝚅𝙴 𝙵𝙾𝙶 & 𝚃𝙴𝚇𝚃𝚄𝚁𝙴] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v1/refs/heads/main/RemoveTexture.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v2/refs/heads/main/RemoveTexture.lua"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v3/refs/heads/main/RemoveFog.lua"))()
