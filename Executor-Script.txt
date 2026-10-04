@@ -18,9 +18,7 @@
 
   [𝙳𝙸𝚂𝙲𝙾𝚁𝙳 𝚂𝙴𝚁𝚅𝙴𝚁] - [💬]
 | https://discord.gg/zen-bypass
-| https://discord.gg/baconscript
 | https://discord.gg/m4a1
-| https://discord.gg/bypass-city
 | https://discord.gg/deltax
 | https://discord.gg/weaoxyz
 
@@ -39,3 +37,5 @@
 
  [🚀] [𝙱𝙾𝙾𝚂 𝙵𝙿𝚂] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v1/refs/heads/main/BoostFPS.lua"))()
+| loadstring(game:HttpGet("https://pastefy.app/XjzGtZbM/raw"))()
+| loadstring(game:HttpGet("https://pastebin.com/raw/RHKx2nbs"))()
