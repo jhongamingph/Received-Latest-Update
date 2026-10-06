@@ -2,7 +2,6 @@
            𝚃𝙷𝙸𝚂 𝚆𝙰𝚂 𝙼𝙰𝙳𝙴 𝚃𝙾 𝚁𝙴𝙲𝙴𝙸𝚅𝙴𝙳 𝙻𝙰𝚃𝙴𝚂𝚃 𝚄𝙿𝙳𝙰𝚃𝙴 & 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 ( discord.gg/NyvndxAadV )
            𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙱𝚈: 𝙶𝙸𝚃𝙷𝚄𝙱.𝙲𝙾𝙼
            𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈: 𝚂𝚈𝙽𝙲 - 𝙹𝙾𝙷𝙽
-           𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁: @jhongamingph / @jhongamingph
            𝙲𝙾𝙿𝚈𝚁𝙸𝙶𝙷𝚃 © 2026-2027  𝚃𝙴𝙰𝙼 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 - 𝙰𝙻𝙻 𝚁𝙸𝙶𝙷𝚃𝚂 𝚁𝙴𝚂𝙴𝚁𝚅𝙴𝙳.
 ]]--
 
@@ -34,8 +33,3 @@
  [⚡] [𝚃𝚄𝚁𝙱𝙾 𝙻𝙸𝚃𝙴] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/TurboLite/refs/heads/main/FixLag.lua"))()
-
- [🚀] [𝙱𝙾𝙾𝚂 𝙵𝙿𝚂] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v1/refs/heads/main/BoostFPS.lua"))()
-| loadstring(game:HttpGet("https://pastefy.app/LgpCKS9g/raw"))()
-| loadstring(game:HttpGet("https://pastebin.com/raw/RHKx2nbs"))()
