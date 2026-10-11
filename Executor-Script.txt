@@ -40,5 +40,5 @@
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingofficialph/v2/refs/heads/main/Universal.lua"))()
 
  [⚔️] [𝙵𝙰𝚂𝚃 𝙰𝚃𝚃𝙰𝙲𝙺] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v3/refs/heads/main/BloxFruits.lua")
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingofficialph/v4/refs/heads/main/BloxFruits.lua")
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v3/refs/heads/main/BloxFruits.lua"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingofficialph/v4/refs/heads/main/BloxFruits.lua"))()
