@@ -35,6 +35,6 @@
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/TurboLite/refs/heads/main/FixLag.lua"))()
 
-[🚀] [𝙾𝙿𝚃𝙸𝙼𝙸𝚉𝙴] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
+ [🚀] [𝙾𝙿𝚃𝙸𝙼𝙸𝚉𝙴] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v1/refs/heads/main/Universal.lua"))()
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingofficialph/v2/refs/heads/main/Universal.lua"))()
