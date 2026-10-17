@@ -2,6 +2,7 @@
            𝚃𝙷𝙸𝚂 𝚆𝙰𝚂 𝙼𝙰𝙳𝙴 𝚃𝙾 𝚁𝙴𝙲𝙴𝙸𝚅𝙴𝙳 𝙻𝙰𝚃𝙴𝚂𝚃 𝚄𝙿𝙳𝙰𝚃𝙴 & 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 ( discord.gg/NyvndxAadV )
            𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙱𝚈: 𝙶𝙸𝚃𝙷𝚄𝙱.𝙲𝙾𝙼
            𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈: 𝚂𝚈𝙽𝙲 - 𝙹𝙾𝙷𝙽
+           𝙶𝙸𝚃𝙷𝚄𝙱 𝙰𝙲𝙲𝙾𝚄𝙽𝚃: ( jhongamingph ) ( jhongamingph-dev) ( jhongamingoffcialph)
            𝙲𝙾𝙿𝚈𝚁𝙸𝙶𝙷𝚃 © 2026-2027  𝚃𝙴𝙰𝙼 𝙴𝚇𝙿𝙻𝙾𝙸𝚃𝚂 - 𝙰𝙻𝙻 𝚁𝙸𝙶𝙷𝚃𝚂 𝚁𝙴𝚂𝙴𝚁𝚅𝙴𝙳.
 ]]--
 
@@ -36,9 +37,9 @@
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/TurboLite/refs/heads/main/FixLag.lua"))()
 
  [🚀] [𝙾𝙿𝚃𝙸𝙼𝙸𝚉𝙴] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v1/refs/heads/main/Universal.lua"))()
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingofficialph/v2/refs/heads/main/Universal.lua"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph/BloxFruits/refs/heads/main/FixLag.lua"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/BloxFruits/refs/heads/main/FixLag.lua"))()
 
- [⚔️] [𝙵𝙰𝚂𝚃 𝙰𝚃𝚃𝙰𝙲𝙺] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/v3/refs/heads/main/BloxFruits.lua"))()
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingofficialph/v4/refs/heads/main/BloxFruits.lua"))()
+ [⚔️] [𝚀𝚄𝙰𝙽𝚃𝙸𝚃𝚈] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph/BloxFruits/refs/heads/main/Quantity.lua"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph-dev/BloxFruits/refs/heads/main/Quantity.lua"))()
