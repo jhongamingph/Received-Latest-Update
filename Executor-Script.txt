@@ -37,7 +37,7 @@
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph/Universal/refs/heads/main/TurboLite.lua"))()
 
  [🚀] [𝙾𝙿𝚃𝙸𝙼𝙸𝚉𝙴] - [𝚄𝙽𝙸𝚅𝙴𝚁𝚂𝙰𝙻]
-| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph/Universal/refs/heads/main/Fixlag.lua"))()
+| loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph/Universal/refs/heads/main/FixLag.lua"))()
 
  [⚔️] [𝚀𝚄𝙰𝙽𝚃𝙸𝚃𝚈] - [𝙱𝙻𝙾𝚇 𝙵𝚁𝚄𝙸𝚃𝚂]
 | loadstring(game:HttpGet("https://raw.githubusercontent.com/jhongamingph/BloxFruits/refs/heads/main/Quantity.lua"))()
